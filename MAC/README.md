@@ -6,7 +6,7 @@ Steps for Crossover:
 
 * In the Crossover app, right-click on the Steam bottle and click `Open C: Drive`.
 
-  * Navigate to `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company` and copy the mod folder into the game folder like before.
+  * Navigate to `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company` and copy the contents of the mod folder ("LowRes") into the game folder like before. I already removed the "Reserved Slot" mods.
 
   * See 8:11 here: https://www.youtube.com/watch?v=HBnJmp58hn8
 
