@@ -1,5 +1,3 @@
-Whisky is an option that only works on Apple Silicon Macs (i.e. M1 or M2).
-
 Steps for Crossover:
 
 * Install Steam & Lethal Company in Crossover, then shut down the Steam bottle.
