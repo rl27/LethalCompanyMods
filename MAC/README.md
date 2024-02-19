@@ -1,5 +1,7 @@
 Steps for Crossover:
 
+* Install Crossover.
+
 * Install Steam & Lethal Company in Crossover, then shut down the Steam bottle.
 
 * In the Crossover app, right-click on the Steam bottle and click `Open C: Drive`. Navigate to `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company` and copy the mod folder into the game folder like before.
