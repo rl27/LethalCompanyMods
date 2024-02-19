@@ -2,19 +2,17 @@ Whisky is an option that only works on Apple Silicon Macs (i.e. M1 or M2).
 
 Steps for Crossover:
 
-* Install Steam & Lethal Company in Crossover
+* Install Steam & Lethal Company in Crossover, then shut down the Steam bottle.
 
-* Copy over the mod folder into the Lethal Company folder in Crossover like before.
+* In the Crossover app, right-click on the Steam bottle and click `Open C: Drive`. Navigate to `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company` and copy the mod folder into the game folder like before.
 
-  * To find the folder, go to your Steam library, right-click on Lethal Company -> Manage -> Browse local files.
+  * See 8:11 here: https://www.youtube.com/watch?v=HBnJmp58hn8
 
-* Shut down the Steam bottle.
+* In the Crossover app, in the Steam bottle, open "Wine Configuration". This will be at the right under "Control Panels". See 5:07 in the video above.
 
-  * In the Crossover app, go to the Steam bottle. At the right under "Control Panels" click on "Wine Configuration".
+  * In the newly-opened "Wine Configuration" window, select the "Libraries" tab.
 
-  * In the new "Wine Configuration" window that was opened, select the "Libraries" tab.
-
-  * In the text box under "New override for library" type `winhttp`. Click "Add" then click "Apply" and close the "Wine Configuration" window.
+  * In the text box under "New override for library" type `winhttp`. Click "Add" then click "Apply" and close the window.
 
 * Open Steam and run Lethal Company.
 
