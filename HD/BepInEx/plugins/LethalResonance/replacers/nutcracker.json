@@ -1,0 +1,183 @@
+{
+"condition": {
+        "type": "config",
+        "config": "EnabledSounds:nutcracker"
+    },
+    "randomness": {
+        "type": "determinstic"
+    },
+    "replacements": [
+        {
+            "matches": [
+                "LongRangeSFX:AlertedSFX",
+                "NutcrackerEnemy:AlertedSFX"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/AlertedSFX1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "nutcracker/AlertedSFX2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "nutcracker/AlertedSFX3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:BootStomp1",
+                "NutcrackerEnemy:BootStomp1"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/BootStomp1.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:BootStomp2",
+                "NutcrackerEnemy:BootStomp2"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/BootStomp2.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:BootStomp3",
+                "NutcrackerEnemy:BootStomp3"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/BootStomp3.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "LongRangeSFX:HeadGoUp",
+                "NutcrackerEnemy:HeadGoUp"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/HeadGoUp.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:Kick",
+                "NutcrackerEnemy:Kick"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/Kick1.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "nutcracker/Kick2.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "nutcracker/Kick3.ogg",
+                    "weight": 1
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:MetalSqueak1",
+                "NutcrackerEnemy:MetalSqueak1"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/MetalSqueak1.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:MetalSqueak2",
+                "NutcrackerEnemy:MetalSqueak2"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/MetalSqueak2.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:MetalSqueak3",
+                "NutcrackerEnemy:MetalSqueak3"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/MetalSqueak3.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "CreatureSFX:MetalSqueak4",
+                "NutcrackerEnemy:MetalSqueak4"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/MetalSqueak4.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "TurnBodySFX:NutcrackerTurn",
+                "NutcrackerEnemy:NutcrackerTurn"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/NutcrackerTurn.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "TurnBodySFX:StopTurning1",
+                "NutcrackerEnemy:StopTurning1"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/StopTurning1.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "TurnBodySFX:StopTurning2",
+                "NutcrackerEnemy:StopTurning2"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/StopTurning2.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+                "TurnBodySFX:StopTurning3",
+                "NutcrackerEnemy:StopTurning3"
+            ],
+            "sounds": [
+                {
+                    "sound": "nutcracker/StopTurning3.ogg"
+                }
+            ]
+        }
+    ]
+}
